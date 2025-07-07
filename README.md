@@ -1,4 +1,4 @@
-# Work-Plan-and-Project-Initiation-Sheet-Template-for-Data-Engineering-Data-Science and ML-Projects
+# Work Plan and Project Initiation Sheet Template for Enterprise Data Engineering, Data Science and ML Projects
 
 ### This is an example of a Work Plan that Project Engineers, Project Leads, Managers, Principal Engineers, AI Specialists, Software Engineers, Data Engineers, Data Scientists etc, can use as a template to design work plans and project initiation documents for their projects.
 
